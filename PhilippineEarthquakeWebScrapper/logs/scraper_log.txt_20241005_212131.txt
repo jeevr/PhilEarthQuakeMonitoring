@@ -1,0 +1,2 @@
+2024-10-05 21:21:39,878 - INFO - Page loaded successfully
+2024-10-05 21:21:41,899 - INFO - Data scraped successfully

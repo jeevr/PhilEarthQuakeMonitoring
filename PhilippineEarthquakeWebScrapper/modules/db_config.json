@@ -1,0 +1,11 @@
+{
+  "environments": {
+    "local_phil_earthquakes" : {
+      "NAME": "phil_earthquakes",
+      "HOST": "localhost",
+      "PORT": "5432",
+      "USER": "postgres",
+      "PASS": "qwerty"
+    }
+  }
+}
