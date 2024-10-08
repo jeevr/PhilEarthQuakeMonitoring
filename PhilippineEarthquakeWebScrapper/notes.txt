@@ -5,4 +5,4 @@ https://www.youtube.com/watch?v=eD3zwru9pIY --> to scrape data tables
 https://earthquake.phivolcs.dost.gov.ph/  --> page to be scrapped
 
 
-https://github.com/jeevr/PhilEarthQuakeMonitoring --> github link
+https://github.com/jeevr/PhilEarthQuakeMonitoring --> github link qwew
