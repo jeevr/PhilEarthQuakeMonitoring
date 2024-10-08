@@ -1,6 +1,0 @@
-2024-10-06 00:27:06,162 - INFO - Page loaded successfully
-2024-10-06 00:27:39,872 - INFO - Data scraped successfully
-2024-10-06 00:27:39,873 - INFO - OCTOBER 2024
-2024-10-06 00:27:39,873 - DEBUG - Month: OCTOBER
-2024-10-06 00:27:39,873 - DEBUG - Year: 2024
-2024-10-06 00:28:46,337 - INFO - DataFrame Dumped Datbase

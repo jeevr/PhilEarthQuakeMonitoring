@@ -1,6 +1,0 @@
-2024-10-05 20:53:56,559 - INFO - Page loaded successfully
-2024-10-05 20:54:31,223 - INFO - Data scraped successfully
-2024-10-05 20:54:31,224 - INFO - OCTOBER 2024
-2024-10-05 20:54:31,224 - DEBUG - Month: OCTOBER
-2024-10-05 20:54:31,224 - DEBUG - Year: 2024
-2024-10-05 20:54:31,247 - INFO - DataFrame saved to scraped_data/earthquake_data_october_2024.csv
